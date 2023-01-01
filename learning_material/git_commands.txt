@@ -1,0 +1,7 @@
+commands learnt till now :
+
+git status
+git add
+git commit
+git diff
+git checkout
