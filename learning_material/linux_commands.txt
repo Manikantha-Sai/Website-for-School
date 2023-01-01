@@ -4,5 +4,3 @@ ls - list all files/directories
 cd - change directory
 mkdir - make directory
 cd .. - go back to parent directory
-
-Added some
